@@ -1,0 +1,1 @@
+select * from KK_XXI.AQ$QUEUE_FOR_CD_TABLE
